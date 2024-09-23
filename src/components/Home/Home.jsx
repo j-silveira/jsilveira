@@ -4,7 +4,7 @@ import { Container, Row, Col, ThemeProvider} from 'react-bootstrap';
 import { ArrowRightCircle } from 'react-bootstrap-icons';
 import 'animate.css';
 import Particle from '../Particle/Particle';
-import pdf from '../../assets/img/joaosilveiracv.pdf';
+import cvpdf from '../../assets/img/joaosilveiracv_v2.pdf';
 
 export const Home = () => {
 
@@ -40,7 +40,7 @@ export const Home = () => {
                         </Col>
                         <Col sm={6} md={6} xl={6} className='header-btn'>
                             <a
-                                href={pdf}
+                                href={cvpdf}
                                 target='_blank'
                                 download="joaosilveiracv.pdf"
                                 rel="noreferrer"

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a017db57.css",
-    "main.js": "/static/js/main.9c1c18d1.js",
+    "main.js": "/static/js/main.1d3ca636.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/proaktive.png": "/static/media/proaktive.bd1625b4a3744ae9c592.png",
     "static/media/metalimport.png": "/static/media/metalimport.2e70bd629cf799f18d44.png",
@@ -12,7 +12,7 @@
     "static/media/portfolio.png": "/static/media/portfolio.9580a828a9f2cd189cd8.png",
     "static/media/Prancheta.png": "/static/media/Prancheta.87413df18b5259099924.png",
     "static/media/jsbranco.png": "/static/media/jsbranco.2338dd83240dfdbbf95a.png",
-    "static/media/CV.pdf": "/static/media/CV.0d807f483ca73f8a929c.pdf",
+    "static/media/joaosilveiracv_v2.pdf": "/static/media/joaosilveiracv_v2.d6f06ad3ff30447b8c8d.pdf",
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
@@ -22,11 +22,11 @@
     "static/media/adobeill.svg": "/static/media/adobeill.5609bf0bdc6ceceaf7a0505e563d7603.svg",
     "index.html": "/index.html",
     "main.a017db57.css.map": "/static/css/main.a017db57.css.map",
-    "main.9c1c18d1.js.map": "/static/js/main.9c1c18d1.js.map",
+    "main.1d3ca636.js.map": "/static/js/main.1d3ca636.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a017db57.css",
-    "static/js/main.9c1c18d1.js"
+    "static/js/main.1d3ca636.js"
   ]
 }

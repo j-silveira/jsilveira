@@ -12,6 +12,6 @@ Version Control Tools: Git, GitHub
 📞 Contact Me
 If you're interested in working with me or just want to exchange ideas about web design and development, feel free to get in touch!
 
-Email: contato@jsilveira.pt
+Instagram: @joaof_silveira
 LinkedIn: @joaofsilveira
 GitHub: j-silveira

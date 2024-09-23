@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://j-silveira.github.io/js-webdeveloper",
+  "homepage": "https://www.jsilveira.pt",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
@@ -19,6 +19,7 @@
     "react-bootstrap": "^2.7.2",
     "react-bootstrap-icons": "^1.10.2",
     "react-dom": "^18.2.0",
+    "react-ga": "^3.3.1",
     "react-multi-carousel": "^2.8.2",
     "react-on-screen": "^2.1.1",
     "react-particles": "^2.9.3",

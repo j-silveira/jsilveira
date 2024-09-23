@@ -36,7 +36,7 @@ export const Home = () => {
                     <Row>
                         <Col sm={12} md={12} xl={12} className='header-bx'>
                             <h1>Hi, I'm João Silveira</h1>
-                            <p>I'm a Front-end Developer based in Porto, Portugal, <br></br>passionate about creating amazing solutions for the web.</p>
+                            <p>I'm a Web Designer based in Porto, Portugal, <br></br>passionate about creating amazing solutions for the web.</p>
                         </Col>
                         <Col sm={6} md={6} xl={6} className='header-btn'>
                             <a

@@ -9,7 +9,8 @@ import react from '../../assets/img/logoreact.png';
 import bootstrap from '../../assets/img/logobootstrap.png';
 import wordpress from '../../assets/img/wordpress.svg';
 import adobexd from '../../assets/img/adobexd.svg';
-import adobeillustrator from '../../assets/img/adobeill.svg'
+import adobeillustrator from '../../assets/img/adobeill.svg';
+import figma from '../../assets/img/figma.svg';
 
 
 export const Skills = () => {
@@ -56,31 +57,35 @@ export const Skills = () => {
                                     <p>HTML</p>
                                 </div>
                                 <div className='item'>
-                                    <img src={css} alt='a'/>
+                                    <img src={css} alt='css js web designer'/>
                                     <p>CSS</p>
                                 </div>
                                 <div className='item'>
-                                    <img src={javascript} alt='a'/>
+                                    <img src={javascript} alt='javascript js web designer'/>
                                     <p>Javascript</p>
                                 </div>
                                 <div className='item'>
-                                    <img src={react} alt='a'/>
+                                    <img src={react} alt='react js web designer'/>
                                     <p>React</p>
                                 </div>
                                 <div className='item'>
-                                    <img src={bootstrap} alt='a'/>
+                                    <img src={bootstrap} alt='bootstrap js web designer'/>
                                     <p>Bootstrap</p>
                                 </div>
                                 <div className='item'>
-                                    <img src={wordpress} alt='a'/>
+                                    <img src={wordpress} alt='wordpress js web designer'/>
                                     <p>Wordpress</p>
                                 </div>
                                 <div className='item'>
-                                    <img src={adobexd} alt='a'/>
+                                    <img src={figma} alt='figma js web designer'/>
+                                    <p>Figma</p>
+                                </div>
+                                <div className='item'>
+                                    <img src={adobexd} alt='adobe xd js web designer'/>
                                     <p>Adobe XD</p>
                                 </div>
                                 <div className='item'>
-                                    <img src={adobeillustrator} alt='a'/>
+                                    <img src={adobeillustrator} alt='adobe illustrator js web designer'/>
                                     <p>Adobe Illustrator</p>
                                 </div>
                             </Carousel>

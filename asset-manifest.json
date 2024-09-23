@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a017db57.css",
+    "main.js": "/static/js/main.9c1c18d1.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/proaktive.png": "/static/media/proaktive.bd1625b4a3744ae9c592.png",
+    "static/media/metalimport.png": "/static/media/metalimport.2e70bd629cf799f18d44.png",
+    "static/media/mrwonderful.png": "/static/media/mrwonderful.5c95283e87962055abff.png",
+    "static/media/background-generator.png": "/static/media/background-generator.03f76ada720d3d35420a.png",
+    "static/media/ikea.png": "/static/media/ikea.ed05111874dcc619571f.png",
+    "static/media/photography.png": "/static/media/photography.7cc37252ec4311cf0917.png",
+    "static/media/portfolio.png": "/static/media/portfolio.9580a828a9f2cd189cd8.png",
+    "static/media/Prancheta.png": "/static/media/Prancheta.87413df18b5259099924.png",
+    "static/media/jsbranco.png": "/static/media/jsbranco.2338dd83240dfdbbf95a.png",
+    "static/media/CV.pdf": "/static/media/CV.0d807f483ca73f8a929c.pdf",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/wordpress.svg": "/static/media/wordpress.558f4cc800dc43b4439289b217a67c89.svg",
+    "static/media/adobexd.svg": "/static/media/adobexd.293502a7ebe2756bd13ce4516e41c0c7.svg",
+    "static/media/figma.svg": "/static/media/figma.eea90cbdb2df47f3f9a77474d7dd244c.svg",
+    "static/media/adobeill.svg": "/static/media/adobeill.5609bf0bdc6ceceaf7a0505e563d7603.svg",
+    "index.html": "/index.html",
+    "main.a017db57.css.map": "/static/css/main.a017db57.css.map",
+    "main.9c1c18d1.js.map": "/static/js/main.9c1c18d1.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a017db57.css",
+    "static/js/main.9c1c18d1.js"
+  ]
+}

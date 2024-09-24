@@ -48,8 +48,8 @@ const alternateOptions = {
         },
     },
     particles: {
-        color: { value: "#ff9484" }, // Partículas brancas
-        links: { color: "#ff9484", distance: 100, enable: true, opacity: 0.6, width: 1 },
+        color: { value: "#090c43" }, // Partículas brancas
+        links: { color: "#090c43", distance: 100, enable: true, opacity: 0.6, width: 1 },
         collisions: { enable: true },
         move: { directions: "bottom", enable: true, outModes: { default: "bounce" }, random: true, speed: 2, straight: false },
         number: { density: { enable: true, area: 800 }, value: 80 },

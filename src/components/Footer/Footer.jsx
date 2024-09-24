@@ -9,7 +9,7 @@ export const Footer = () => {
             <Container>
                 <Row className='align-item-center'>
                     <Col sm={12} md={12} className='text-center'>
-                        <p>&copy;{year.getFullYear()} JS - Web Developer. <br></br>All Rights Reserved.</p>
+                        <p>&copy;{year.getFullYear()} João Silveira - Web Designer. <br></br>All Rights Reserved.</p>
                     </Col>
                 </Row>
             </Container>

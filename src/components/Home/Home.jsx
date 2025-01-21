@@ -42,7 +42,7 @@ export const Home = () => {
                             <a
                                 href={cvpdf}
                                 target='_blank'
-                                download="joaosilveiracven.pdf"
+                                /*download="joaosilveiracven.pdf"*/
                                 rel="noreferrer"
                                 onMouseEnter={handleMouseEnter}
                                 onMouseLeave={handleMouseLeave}

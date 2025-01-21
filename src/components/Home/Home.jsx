@@ -40,9 +40,9 @@ export const Home = () => {
                         </Col>
                         <Col sm={6} md={6} xl={6} className='header-btn'>
                             <a
-                                href={cvpdf}
+                                
                                 target='_blank'
-                                /*download="joaosilveiracven.pdf"*/
+                                download=""
                                 rel="noreferrer"
                                 onMouseEnter={handleMouseEnter}
                                 onMouseLeave={handleMouseLeave}

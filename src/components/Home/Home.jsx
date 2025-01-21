@@ -4,7 +4,7 @@ import { Container, Row, Col, ThemeProvider} from 'react-bootstrap';
 import { ArrowRightCircle } from 'react-bootstrap-icons';
 import 'animate.css';
 import Particle from '../Particle/Particle';
-import cvpdf from '../../assets/img/joaosilveiracven.pdf';
+/*import cvpdf from '../../assets/img/joaosilveiracven.pdf';*/
 
 export const Home = () => {
 
